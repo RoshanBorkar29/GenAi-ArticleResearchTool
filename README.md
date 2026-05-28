@@ -82,3 +82,12 @@ OPENAI_API_KEY=your_api_key_here
 - `main.py` and `frontend/streamlit_app.py` are only placeholders for now.
 - The vector database folder is ready for ChromaDB storage.
 - The structure is ready for article scraping, chunking, embeddings, semantic retrieval, and question answering.
+
+  ##SCREENSHOTS -
+  1.News Article
+  <img width="1084" height="779" alt="image" src="https://github.com/user-attachments/assets/70e8c76f-aa98-47ec-af6b-9419fde4cc4d" />
+
+  2.Result-
+  <img width="1912" height="887" alt="image" src="https://github.com/user-attachments/assets/e6391380-0e34-43df-92d8-55bb30f22d16" />
+
+
